@@ -1,7 +1,5 @@
 <p align="center">
     <a href="https://github.com/alihajqani/Ali_Hajqani"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=alihajqani.Ali_Hajqani" alt="visitors"/>
 </p>
 
