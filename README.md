@@ -35,3 +35,25 @@
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:alihajqani@gmail.com" >
+    <img align="center" alt="Ali Hajqani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/alihajqani/" target="_blank">
+    <img align="center" alt="Ali Hajqani | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/alihajqani" target="_blank">
+    <img align="center" alt="Ali Hajqani | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+
+
+<div align="center">
+  Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2025 Ali Hajqani
+</div>
